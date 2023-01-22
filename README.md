@@ -17,4 +17,6 @@ Orthocam was developed by Allen Lee, Stephen Huston, and Kristin Branson in the 
 4. Run `getVisionFiles` in MATLAB. This will copy a few MATLAB toolbox files into a `vision` directory underneath the repo.
 5. A patchfile `diffs.patch` has been supplied in this repo that specifies updates to these toolbox files. See `patch.cmd` for a command you should run **in a unix shell** (eg on Windows, use WSL2) while in the repo directory.
 6. Run `setupPaths` in MATLAB. This will add the modified toolbox files to your MATLAB path. These modified toolbox files will shadow their built-in counterparts. **Don't save your MATLAB path if you also need to use the standard MATLAB Stereo Calibration App.** Note that your original toolbox files are safe and unmodified in their usual locations.
-7. Follow the recipe in README_Calibration_Recipe.md to perform your calibrations. Good luck! May your optimizations converge and your reprojections be faithful!
+7. Follow the recipe in README_Calibration_Recipe.md to perform your calibrations. 
+
+Good luck! May your optimizations converge and your reprojections be faithful!
