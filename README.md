@@ -6,7 +6,7 @@ Orthocam provides camera calibration tools for cameras in the weak perspective r
 
 This software is integrated with (and requires) the Stereo Camera Calibration App in **MATLAB R2016b specifically**. Orthocam is working software and has not been polished for ease of use.
 
-Orthocam was developed by Allen Lee, Stephen Huston, and Kristin Branson in the Branson Lab at HHMI/Janelia Research Campus.
+Orthocam was developed by Allen Lee, Stephen Huston, and Kristin Branson in the Branson Lab at HHMI/Janelia Research Campus for use with the [Animal Part Tracker](https://github.com/kristinbranson/APT). 
 
 
 #### Requirements and Setup
